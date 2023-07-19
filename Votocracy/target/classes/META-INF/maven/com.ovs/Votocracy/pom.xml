@@ -29,6 +29,11 @@
        <artifactId>hibernate-core</artifactId>
        <version>6.2.6.Final</version>
      </dependency>
+     <dependency>
+     	<groupId>com.masai</groupId>
+     	<artifactId>D25_Demo_project</artifactId>
+     	<version>0.0.1-SNAPSHOT</version>
+     </dependency>
   </dependencies>
 
   <build>

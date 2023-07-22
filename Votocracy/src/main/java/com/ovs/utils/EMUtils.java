@@ -6,8 +6,7 @@ import jakarta.persistence.Persistence;
 
 public class EMUtils {
 
-	
-	
+	    
 	    static EntityManagerFactory emf;
 	    
 	    static {
@@ -20,4 +19,5 @@ public class EMUtils {
 	    }
 	    
 	    
+	 
 }
